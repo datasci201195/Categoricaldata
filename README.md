@@ -2,7 +2,7 @@
 
 ### src_cat-in-the-dat
 
-**create_folds.py**     : To create validation framework according to data
+**create_folds.py**     : To create validation framework according to data\
 **ohe_logres.py**       : Logistic regression model with One-Hot-Encoding
 **lbl_rf.py**           : Random forest model with Label Encoding
 **ohe_svd_rf.py**       : Random forest model with sparse One-Hot-Encoding matricies using singular value decomposition
