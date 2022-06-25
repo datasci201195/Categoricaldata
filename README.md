@@ -1,6 +1,6 @@
 ## How to handle categorical features and build models
 
-### src_cat-in-the-dat
+>src_cat-in-the-dat
 
 **create_folds.py**     : To create validation framework according to data\
 **ohe_logres.py**       : Logistic regression model with One-Hot-Encoding\
@@ -9,7 +9,7 @@
 **lbl_xgb.py**          : XGboost model with Label Encoding\
 
 
-### src_cat-in-the-dat
+>src_cat-in-the-dat
 
 **create_folds.py**     : To create validation framework according to data\
 **ohe_logres.py**       : Logistic regression model with One-Hot-Encoding\
