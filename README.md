@@ -21,6 +21,6 @@
 **lbl_xgb_num.py**      : XGboost model with Label Encoding & numerical features included\
 **lbl_xgb_num_feat.py** : XGboost model with Label Encoding & numerical features included with feature engineering\
 **target_encoding.py**  : XGboost model with Label Encoding & numerical features included with target encoding\
-**entity_embeddings.py**: Neaural network using TF/Keras
+**entity_embeddings.py**: Neural network using TF/Keras
 
 ***Find the datasets [here](https://www.kaggle.com/datasets/abhishek/aaamlp).***
