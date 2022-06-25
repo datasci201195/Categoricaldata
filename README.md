@@ -1,2 +1,4 @@
-# Categoricaldata
-This repo is about how to handle categorical variable and make machine learning models
+## How to handle categorical features and build models
+
+### src_cat-in-the-dat
+
