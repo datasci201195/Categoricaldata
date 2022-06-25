@@ -8,7 +8,7 @@
 **ohe_logres.py**       : Logistic regression model with One-Hot-Encoding\
 **lbl_rf.py**           : Random forest model with Label Encoding\
 **ohe_svd_rf.py**       : Random forest model with sparse One-Hot-Encoding matricies using singular value decomposition\
-**lbl_xgb.py**          : XGboost model with Label Encoding\
+**lbl_xgb.py**          : XGboost model with Label Encoding
 
 
 
@@ -21,6 +21,6 @@
 **lbl_xgb_num.py**      : XGboost model with Label Encoding & numerical features included\
 **lbl_xgb_num_feat.py** : XGboost model with Label Encoding & numerical features included with feature engineering\
 **target_encoding.py**  : XGboost model with Label Encoding & numerical features included with target encoding\
-**entity_embeddings.py**: Neaural network using TF/Keras\
+**entity_embeddings.py**: Neaural network using TF/Keras
 
 ***Find the datasets [here](https://www.kaggle.com/datasets/abhishek/aaamlp).***
